@@ -1,0 +1,8 @@
+dev
+etc
+mingw*
+tmp
+usr
+var
+*.xml
+.fonts

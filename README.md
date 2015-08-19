@@ -1,1 +1,1 @@
-# msys2
+# Msys2 config files
